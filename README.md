@@ -4,8 +4,8 @@
 
 | No. | Nama Anggota | NIM |
 |---|---|---|
-| 1 | [Tazky Petroza] | [124400037] |
-| 2 | [Nandri Napillah] | [124400073] |
+| 1 | Tazky Petroza | 124400037 |
+| 2 | Nandri Napillah | 124400073 |
 
 - **Kelas:** [RA]
 - **LOKASI_KELOMPOK:** 7
